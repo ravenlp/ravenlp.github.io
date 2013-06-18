@@ -4,8 +4,6 @@ title: "Hello Jekyll"
 category: Blog
 tags: [Blog, Jekyll, Github, Ruby]
 ---
-This is my first post on this site, my new blog. The last one, well... was kinda abbandoned but that's history.
-
 Hey, this is my first post on this site, my new blog. The last one, well… was kind of abandoned but that’s history.
 Now I’m writing on my brand new shining [jekyll][jekyll] powered static blog, and it’s hosted on [Github][github] so that makes it double special. Yay!!
 
