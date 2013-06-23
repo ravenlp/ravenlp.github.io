@@ -25,7 +25,7 @@ error: error setting certificate verify locations:
  while accessing https://github.com/[REPO_URL]
 {% endhighlight %}
 
-As you can see this is simple chiming you don't have any certificates or you don't have access to the path specified, at this point you may want to get in touch with you'r hosting support… or you can disable the check for SSL certificates, after all you are accessing a 'public' repo for read-only proposes.
+As you can see this is simple chiming you don't have any certificates or you don't have access to the path specified, at this point you may want to get in touch with your hosting support guy… or you can disable the check for SSL certificates, after all you are accessing a 'public' repo for read-only proposes.
 
 ## The DIY way
 
