@@ -21,7 +21,7 @@ The script is composed of two stages, first we need to get the webpage and get o
 
 This example gets the current argentinian peso exchange value for usd dollar and euros every 30 minutes.
 
-<div class="highlight">
+<div class="highlight-gist">
 <div class="code">
 {% gist 5820493 %}
 </div>
@@ -34,7 +34,7 @@ As you can see the code is quite tailored for this specific example, specially t
 As I mentioned before the board is programmed to show whatever the serial connection brings to it, reducing the logic on the Arduino side to nearly zero.
 
 
-<div class="highlight">
+<div class="highlight-gist">
 <div class="code">
 {% gist 5794749 %}
 </div>
