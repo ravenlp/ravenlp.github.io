@@ -1,5 +1,7 @@
 # Coding Ravens blog
 
+*[DEPRECATED BLOG]*
+
 This is my blog about development and electronics, it's build using jekyll to generate the static files composing the site.
 
 ## Usage
